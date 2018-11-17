@@ -37,7 +37,7 @@
 					
 
 					<span class="login100-form-title p-b-34 p-t-27">
-						Hi Team Prodevans 
+						Hi Team Prodevans  TECHNOLOGIEWS
 					</span>
 	       				<img class="white_logo desktop_logo" src="http://www.prodevans.com/wp-content/uploads/2017/03/finalLogo.png" alt="Prodevans" title="Prodevans">
 <!--
